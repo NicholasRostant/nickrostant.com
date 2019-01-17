@@ -1,2 +1,1 @@
-# nickrostant.com
-A personal static website built with Jekyll
+A static personal site built on jekyll.
